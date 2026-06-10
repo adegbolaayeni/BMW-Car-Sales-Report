@@ -48,9 +48,3 @@ The dataset contains BMW car sales records with attributes including:
 1. Download the `.pbix` file from this repository.  
 2. Open it in **Power BI Desktop**.  
 3. Interact with the dashboard filters and visuals to explore insights.
-
----
-
-💡 **Author:** Adegbola Ayeni  
-📧 Contact: ayeniadegbolaelijah@gmail.com  
-🌐 Portfolio: https://github.com/adegbolaayeni
